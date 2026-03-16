@@ -35,7 +35,7 @@ This folder contains Python graphics programs created using **Pygame**.
 * `math` module (built-in with Python)
 
 ### Install Required Library
-```bash
+
 pip install pygame
 How to Run
 
@@ -45,13 +45,13 @@ Navigate to the project folder
 
 Run the Python file
 
-Example:
+### Example:
 
 python reptile_cursor.py
 Repository
 
 https://github.com/Rishikeshgawali/Python_Programming
 
-Author
+### Author
 
 **RISHIKESH BHARAT GAWALI**
