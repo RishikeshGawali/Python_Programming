@@ -1,4 +1,4 @@
-# Python Programming Repository
+# Python_Programming
 
 ## Description
 This repository contains Python programs and solutions for various programming problems and graphics demonstrations.
