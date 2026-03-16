@@ -1,24 +1,57 @@
-# Python Programming
+# Python Programming Repository
 
 ## Description
-This repository contains Python solutions to a variety of problems. The problems are organized into two main categories:
+This repository contains Python programs and solutions for various programming problems and graphics demonstrations.
 
-1. **Py_codes**: A collection of solved problems related to:
-   - **Numbers**: Operations and algorithms on numbers
-   - **Digits**: Problems related to digit manipulation
-   - **Arrays**: Common array-related problems
-   - **Pattern Printing**: Programs that generate different patterns using loops.
+## Project Structure
 
-2. **Py_assignment**: Solutions to assignment questions that focus on specific Python concepts and algorithms.
+### 1. Py_codes
+A collection of solved problems related to:
+* **Numbers** – Programs related to number operations and algorithms  
+* **Digits** – Problems involving digit manipulation  
+* **Arrays** – Common array-based programming problems  
+* **Pattern Printing** – Programs that generate patterns using loops  
+
+### 2. Py_assignment
+Solutions to assignment questions focusing on different Python concepts and algorithms.
+
+### 3. Graphics
+This folder contains Python graphics programs created using **Pygame**.
+
+* Example: **Skeleton Reptile Cursor**
+* A reptile-like skeleton animation that follows the mouse cursor.
+* Demonstrates concepts such as:
+  * Real-time graphics rendering
+  * Mouse interaction
+  * Mathematical calculations using the `math` module
+  * Animation using a game loop
 
 ## Setup and Usage
 
 ### Prerequisites
-- Python 3.x or higher installed on your machine.
-- Knowledge of Python programming.
+* Python **3.x** installed on your system
+* Required Python library:
+  * **pygame**
+* `math` module (built-in with Python)
 
-### Repository
+### Install Required Library
+```bash
+pip install pygame
+How to Run
+
+Clone the repository
+
+Navigate to the project folder
+
+Run the Python file
+
+Example:
+
+python reptile_cursor.py
+Repository
+
 https://github.com/Rishikeshgawali/Python_Programming
 
-### Author
+Author
+
 **RISHIKESH BHARAT GAWALI**
